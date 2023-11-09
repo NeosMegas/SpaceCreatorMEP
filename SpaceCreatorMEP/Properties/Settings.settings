@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SpaceCreatorMEP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="helpURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://docs.google.com/document/d/1w61MSDl3wuLn6hG8LmpzhGMRkhZH9bNQuyePYg6-yMQ/edit?usp=sharing</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command SpaceCreatorMEP</Text>
+    <Description>Some description for SpaceCreatorMEP</Description>
+    <Assembly>SpaceCreatorMEP.dll</Assembly>
+    <FullClassName>SpaceCreatorMEP.Command</FullClassName>
+    <ClientId>f32d505e-bcd6-4b99-ac7d-9c51ba3aa7ba</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application SpaceCreatorMEP</Name>
+    <Assembly>SpaceCreatorMEP.dll</Assembly>
+    <FullClassName>SpaceCreatorMEP.App</FullClassName>
+    <ClientId>8f1e12f8-f8e8-4ec2-a611-de764ebbf55e</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

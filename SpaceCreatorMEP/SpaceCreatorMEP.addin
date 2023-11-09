@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>SpaceCreatorMEP</Name>
+    <Assembly>SpaceCreatorMEP.dll</Assembly>
+    <FullClassName>SpaceCreatorMEP.App</FullClassName>
+    <ClientId>8f1e12f8-f8e8-4ec2-a611-de764ebbf55e</ClientId>
+    <VendorId>Valiev Alexander</VendorId>
+    <VendorDescription>an.valiev@72list.ru</VendorDescription>
+  </AddIn>
+</RevitAddIns>
